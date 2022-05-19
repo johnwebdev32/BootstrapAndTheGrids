@@ -14,15 +14,6 @@ body> main{
     margin-bottom: 60px;
 }
 
-.homeBG {
-    width:100%;
-    background: url(/img/GridBG.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-
-}
 .homeText {
     font-family: modesto-open-shadow, sans-serif;
     font-weight: 400;
