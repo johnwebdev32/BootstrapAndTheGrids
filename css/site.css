@@ -32,3 +32,6 @@ body> main{
 .minHeight{
     min-height: 80vh;
 }
+main>.container-fluid{
+    padding-top: 60px;
+}
